@@ -2,10 +2,7 @@
     margin: 0;
     padding: 0;
 }
-html{
-    background-color: crimson;
-}
 
-input{
-    max-width: 200px;
+#fire {
+    width: 300px;
 }
